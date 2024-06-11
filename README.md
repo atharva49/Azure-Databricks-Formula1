@@ -1,5 +1,7 @@
 # Azure-Databricks Project
 
+This project entails the design and implementation of a comprehensive data engineering solution leveraging Azure Databricks, Azure Data Lake Gen2, Azure Data Factory, and Power BI. The primary goal was to establish a robust, scalable, and efficient data processing and analytics platform to support advanced data-driven decision-making.
+
 # Azure Databricks
 
 •	Built a solution architecture for a data engineering solution using Azure Databricks, Azure Data Lake Gen2, Azure Data Factory, and Power BI.
